@@ -8,3 +8,4 @@ We will create a  webApp for our comanny Abdullah Tables. This website will be  
 10/11/2021 6:00pm
 -- Added the Tables class and with 4 attribute and customer review.
 --scaffolded the model everinthing seems Ok
+-- The SeedData worked after some error : More than one DbContext. Solved the problem by adding -Context AbdullahTablesContext

@@ -9,7 +9,7 @@ namespace AbdullahTables.Data
 {
     public class AbdullahTablesContext : DbContext
     {
-        public AbdullahTablesContext (DbContextOptions<AbdullahTablesContext> options)
+        public AbdullahTablesContext(DbContextOptions<AbdullahTablesContext> options)
             : base(options)
         {
         }
