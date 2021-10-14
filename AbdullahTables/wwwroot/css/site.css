@@ -20,9 +20,10 @@ a {
 
 header {
     background-color: rgb(2, 62, 138);
+    color:white !important;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link  {
-    color: #fff;
+    color: white ;
     background-color: rgb(2, 62, 138);
     border-color: #1861ac;
 }
@@ -30,7 +31,8 @@ header {
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 20px;
+  font-size: 20px !important;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
 }
 @media (min-width: 768px) {
   html {
