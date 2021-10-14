@@ -21,7 +21,7 @@ namespace AbdullahTables.Models
                 {
                     return;   // DB has been seeded
                 }
-
+                // seeding the Databas with initial values that appears if there is no entries currently
                 context.Tables.AddRange(
                     new Tables
                     {

@@ -10,6 +10,10 @@ We will create a  webApp for our comanny Abdullah Tables. This website will be  
 --scaffolded the model everything seems Ok
 -- The SeedData worked after some error : More than one DbContext. Solved the problem by adding -Context AbdullahTablesContext
 
-10/11/2021 9:40am
+10/13/2021 9:40am
 --Modyfying the home view to customize the Welcome page to give more information about the company.
 -- Trying to modifying the css to cchange the colors and the fonts.
+
+10/14/2021 2:00 pm
+--finishing the customization of the app using css and ading some images.
+--adding the about us page about the company

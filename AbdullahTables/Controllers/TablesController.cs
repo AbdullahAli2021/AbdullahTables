@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AbdullahTables.Data;
 using AbdullahTables.Models;
-
+//Controller created by Scaffolding the model
 namespace AbdullahTables.Controllers
 {
     public class TablesController : Controller

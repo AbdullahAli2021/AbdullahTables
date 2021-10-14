@@ -8,11 +8,11 @@ namespace AbdullahTables.Models
 {
     public class Tables
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Color { get; set; }
-        public string Type { get; set; }
-        public decimal Price { get; set; }
-        public string Review { get; set; }
+        public int Id { get; set; } // id is the primaery key
+        public string Name { get; set; } // name of the table
+        public string Color { get; set; } // Color of the table
+        public string Type { get; set; } // which category is the table ( desk ofiice room ....)
+        public decimal Price { get; set; }  //Price of the Table
+        public string Review { get; set; } // Customer Review
     }
 }
